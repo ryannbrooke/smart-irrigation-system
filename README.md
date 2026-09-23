@@ -45,6 +45,4 @@ An embedded electro-mechanical irrigation system that automatically waters plant
 - Data logging
 
 ## Author
-Ryan Brooke
-Simon Fraser University
-Mechatronics Systems Engineering
+Ryan Brooke | Simon Fraser University | Mechatronics Systems Engineering
