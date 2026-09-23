@@ -44,12 +44,6 @@ An embedded electro-mechanical irrigation system that automatically waters plant
 - Weather-based watering
 - Data logging
 
-## Repository Structure
-Firmware/
-Circuit_Diagrams/
-Images/
-Documentation/
-
 ## Author
 Ryan Brooke
 Simon Fraser University
